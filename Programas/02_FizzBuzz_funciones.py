@@ -34,4 +34,4 @@ def extra(texto1 , texto2):
     #retornamos contar            
     return f'Hubo {count} numeros que no cumplian las condiciones'
 
-print(extra('POCHO','COCA'))
+print(extra('Fizz','Buzz'))
