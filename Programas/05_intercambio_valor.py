@@ -9,7 +9,7 @@
  *   Comprueba también que se ha conservado el valor original en las primeras.
  */
 '''
-#creo una funcion que intercambie valores por valor
+#creo una funcion que intercambie variables por valor
 def intercambio_valor(a,b):
     valor = a
     a = b
